@@ -8,7 +8,7 @@ public class Main {
 
         int bonus = amount / miles;
 
-        System.out.println("Итоговый бонус: " + bonus);
+        System.out.println(bonus);
 
     }
 }
